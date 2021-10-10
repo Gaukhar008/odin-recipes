@@ -1,0 +1,13 @@
+* {
+    color: rgba(233, 155, 10, 0.829);
+}
+.description {
+    color: rgb(136, 135, 135);
+    font-family: "Verdana", Helveticsa, sans-serif;
+    font-style: italic;
+}
+.ingredients,
+.directions {
+    font-family: "Verdana", Helvetica, sans-serif;
+    font-size: 16px;
+}
