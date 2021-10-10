@@ -1,0 +1,20 @@
+* {
+    background-color: #38eee5;
+}
+
+.list.ingredients {
+    color: maroon;
+}
+
+.list {
+    font-weight: bold;
+    color: purple;
+}
+
+.ingredients .item  {
+    color: orangered;
+}
+
+h1 {
+    text-align: center;
+}
